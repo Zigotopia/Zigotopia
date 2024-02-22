@@ -6,8 +6,6 @@ Desenvolvo projectos em Front-end e sou apaixonado pelo flow state proporcionado
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zigotopia&show_icons=true&theme=radical)
-
 ### Tecnologias do meu dia a dia :
 
 <div style="display: inline-block">
